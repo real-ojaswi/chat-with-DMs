@@ -1,0 +1,13 @@
+.env
+*.sqlite
+*.pyc
+*.ipynb
+/file
+chroma_db_old.py
+secrets.toml
+*.db
+*_old.py
+.open
+*.sqlite3
+*.bin
+vectordb/
